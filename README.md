@@ -6,7 +6,7 @@ JavaScript/React Developer
 
 * 🌍  I'm based in Marbella, Spain
 * ✉️  You can contact me at [jamesrbowles@gmail.com](mailto:jamesrbowles@gmail.com)
-* 🧠  I'm learning everything JavaScript
+* 🧠  I'm currently learning everything JavaScript
 
 ### Skills
 
