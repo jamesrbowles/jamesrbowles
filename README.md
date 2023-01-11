@@ -1,4 +1,4 @@
-Hi 👋 My name is James Bowles
+James Bowles
 =============================
 
 JavaScript/React Developer
