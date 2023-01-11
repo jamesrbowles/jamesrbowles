@@ -4,9 +4,9 @@ Hi 👋 My name is James Bowles
 JavaScript/React Developer
 --------------------------
 
-* 🌍  I'm based in Marbella, Spain
-* ✉️  You can contact me at [jamesrbowles@gmail.com](mailto:jamesrbowles@gmail.com)
-* 🧠  I'm currently learning everything JavaScript
+* 🌍  Based in Marbella, Spain
+* ✉️  Contact me at [jamesrbowles@gmail.com](mailto:jamesrbowles@gmail.com)
+* 🧠  Currently learning everything JavaScript
 
 ### Skills
 
