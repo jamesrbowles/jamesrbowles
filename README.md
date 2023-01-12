@@ -1,4 +1,4 @@
-James Bowles
+James Bowles.
 =============================
 
 JavaScript/React Developer
@@ -6,7 +6,6 @@ JavaScript/React Developer
 
 * 🌍  Based in Marbella, Spain
 * ✉️  Contact me at [jamesrbowles@gmail.com](mailto:jamesrbowles@gmail.com)
-* 🧠  Currently learning everything JavaScript
 
 ### Skills
 
