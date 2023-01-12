@@ -28,7 +28,7 @@ JavaScript/React Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jamesrbowles"><img src="https://github-readme-stats.vercel.app/api?username=jamesrbowles&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="jamesrbowles's GitHub stats" /></a>
+<a href="http://www.github.com/jamesrbowles"><img src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=jamesrbowles&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="jamesrbowles's GitHub stats" /></a>
 
 <a href="https://github.com/jamesrbowles" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrbowles&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
