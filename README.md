@@ -1,7 +1,7 @@
 James Bowles.
 =============================
 
-JavaScript/React Developer
+Front-end Developer
 --------------------------
 
 * 🌍  Based in Marbella, Spain
