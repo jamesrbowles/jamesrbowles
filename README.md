@@ -5,7 +5,7 @@ Front-end Developer
 --------------------------
 
 * 🌍  Based in Marbella, Spain
-* ✉️  Contact me at [jamesrbowles@gmail.com](mailto:jamesrbowles@gmail.com)
+* ✉️  Contact me at [hello@jamesbowles.co](mailto:hello@jamesbowles.co)
 * Founder of [deckr](https://jamesrbowles.github.io/deckr/)
 
 ### Skills
