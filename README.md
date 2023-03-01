@@ -5,7 +5,7 @@ Front-end Developer
 --------------------------
 
 * ✉️  Contact me at [hello@jamesbowles.co](mailto:hello@jamesbowles.co)
-* Founder of [deckr](https://jamesrbowles.github.io/deckr/)
+* Creator of [deckr](https://jamesrbowles.github.io/deckr/)
 
 ### Skills
 
