@@ -5,7 +5,7 @@ Front-end Developer
 --------------------------
 
 * ✉️  Contact me at [hello@jamesbowles.co](mailto:hello@jamesbowles.co)
-* Creator of [deckr](https://deckr.netlify.app/)
+* Worker at [Brickworx](https://www.brickworx.co/)
 
 ### Skills
 
