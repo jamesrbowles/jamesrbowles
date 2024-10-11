@@ -4,7 +4,7 @@ James Bowles.
 Front-end Developer
 --------------------------
 
-* ✉️  Contact me at [hello@jamesbowles.co](mailto:hello@jamesbowles.co)
+* ✉️  Contact me at [hello@brickworx.co](mailto:hello@brickworx.co)
 * Worker at [Brickworx](https://www.brickworx.co/)
 
 ### Skills
